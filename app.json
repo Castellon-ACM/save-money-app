@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Mi Dinero",
+    "slug": "mi-dinero",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F0F6EF",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.midinero.app"
+    },
+    "android": {
+      "package": "com.midinero.app"
+    }
+  }
+}
